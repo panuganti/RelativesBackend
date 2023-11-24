@@ -1,2 +1,2 @@
-# RelativesBackend
-Repo for Backend Service Code 
+API Service
+Uses AWS S3 as storage
